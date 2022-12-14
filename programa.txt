@@ -1,0 +1,16 @@
+Proceso programa2
+Logico z=Verdadero;
+Entero b=4,c=3,d=5;
+Escribir  "Hi";
+Caracter x = 's';
+prueba = 4;
+
+Repetir
+Escribir "UACM";
+Hasta Que (n<5)
+
+
+Para n=0 Hasta 9 Hacer
+Escribir "UACM"
+FinPara
+FinProceso
